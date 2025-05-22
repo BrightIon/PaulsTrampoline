@@ -14,6 +14,8 @@ In terms of a trampoline: *How do we made a depression at the center of a trampo
 ## The answer
 ...Is to either rotate a saddle (or pringle) shaped surface* around a center vertical axis, or to waggle or oscillate a saddle (or pringle) shaped surface, inverting the upward curved bits to downward curved bits repeatedly.
 
+![image](https://github.com/user-attachments/assets/6725fc32-d399-4cd2-b580-19abb9fbbf8f)
+
 Rotating has been done many times as a teaching demo - eg https://www.youtube.com/watch?v=XTJznUkAmIY
 
 Waggling is a much more accurate description of what we do in real experiments on quantum particles.
@@ -24,3 +26,4 @@ Waggling is a much more accurate description of what we do in real experiments o
 ## Similar trampoline-based demo
 To illustrate gravitational waves, a trampoline arrangement with excitation in the center, and the "field" propagating outwards: https://www.youtube.com/watch?v=dw7U3BYMs4U
 
+![image](https://github.com/user-attachments/assets/3612e910-131d-406e-8451-a0da837cf1df)
