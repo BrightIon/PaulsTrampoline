@@ -34,7 +34,7 @@ Our objective is a bit similar, but the excitation is on the outside edges, the 
 
 - A rubber sheet, or some thick elastic fabric maybe. some trial end error likely needed to find a good stiffness and tension combination [example rubber material](https://rubberfast.co.uk/products/para-shotblast-rubber-sheet?variant=47618026307864)
 - Linear actuators x4 (likely the reciprocating cycle type, or the very fast end of geared stepper motor type, or voice coil type) *cams and gears with a variable speed elecrtic motor is fine*
-- Clamps x4 (should be hyperbola shaped for optimal excitation)
+- Clamps along the 4 edges of the ~square (should be hyperbola shaped for optimal excitation) so that the free area of the trampoline is bounded by "isopotential curves".
 
 ![image](https://github.com/user-attachments/assets/46bc6505-7bfe-4707-bfe1-06f216eb009b)
 
