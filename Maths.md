@@ -16,7 +16,7 @@ Turns out the ball mass doesn't affect the q parameter! (but I expect some secon
 
 # Stable speed ranges
 
-(for a sheet size of `R_0=0.15`) the likely viable drive frequencies for various realistic waggling amplitudes (`H_0` in meters) are indicated by green cells in the matrix.
+(for a sheet size of `R_0=0.15`) the likely viable drive frequencies (`F` in Hz) for various realistic waggling amplitudes (`H_0` in meters) are indicated by green cells in the matrix.
 
 ![image](https://github.com/user-attachments/assets/31322729-16f2-4aab-8b00-ac48a77a7c5e)
 
@@ -25,5 +25,5 @@ Turns out the ball mass doesn't affect the q parameter! (but I expect some secon
 
 ![image](https://github.com/user-attachments/assets/8bcae02c-8484-4432-a5d8-6ab112d38c87)
 
-
+There is a [spreadsheet](./TrampolineMaths.xlsx) to allow experimentation with different values
 
