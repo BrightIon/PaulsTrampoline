@@ -18,10 +18,12 @@ Turns out the ball mass doesn't affect the q parameter! (but I expect some secon
 
 # Stable speed ranges
 
-(for a sheet size of `R_0=0.15`) the likely viable drive frequencies (`F` in Hz) for various realistic waggling amplitudes (`H_0` in meters) are indicated by green cells in the matrix.
+Once we build a rig it wil oscillate the clamps up and down with a fixed amplitude. We can then dial in the right motor speed, but good to have an expectation in advance.
+The likely viable drive frequencies (`F` in Hz down the left) for various realistic waggling amplitudes (`H_0` in meters along the top) are indicated by green cells in the matrix.
 
 ![image](https://github.com/user-attachments/assets/31322729-16f2-4aab-8b00-ac48a77a7c5e)
 
+(this table is for a sheet size of `R_0=0.15`)
 
 # Shape & size plots
 
