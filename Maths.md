@@ -12,7 +12,9 @@
 Stable trapping depends on what is called the 'q parameter'. Values between 0.5 and 0.8 are most stable, above 0.9 is certainly going to be unstable.
 It scales linearly with curvature of the parabolic surface and inverse-square with the drive frequency.
 
-Turns out the ball mass doesn't affect the q parameter! (but I expect some secondary effects to scale with ball mass and size)
+Turns out the ball mass doesn't affect the q parameter! (but I expect some secondary effects to scale with ball mass and size).
+
+> There is a second 'a parameter' related to a global tilt of the trampoline which affects stability. In essence the waggling can stabilise against modest tilt, but not large tilt. It would be great to add adjustible legs to the entire trampoline rig to give some freedom to delilberately tilt or level the sheet.
 
 # Stable speed ranges
 
