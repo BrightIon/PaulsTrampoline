@@ -44,4 +44,5 @@ Our objective is a bit similar, but the excitation is on the outside edges, the 
 - A collection of balls to test, different masses is interesting (optimal size has to be worked out)
 - safety? proximity sensor cutout if there are pinch point hazards
 
+[Some estimated numbers](./Maths.md)
 
